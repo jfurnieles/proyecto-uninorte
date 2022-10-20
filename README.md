@@ -15,6 +15,6 @@ Corresponde a los requerimientos mínimos solicitados para la creación de un si
 ### NRC 2102 - Grupo 07
 
 ### InTegrantes: 
-CYRUS MENDOZA TORRES
-JUAN ESTEBAN FURNIELES DIAZ
-CARLOS DANIEL OTERO CAÑAS
+*CYRUS MENDOZA TORRES
+*JUAN ESTEBAN FURNIELES DIAZ
+*CARLOS DANIEL OTERO CAÑAS
